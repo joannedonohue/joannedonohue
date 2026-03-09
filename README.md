@@ -1,4 +1,4 @@
-# Hi, I'm Jo 👋
+# Hi, I'm Joanne 👋
 
 **Analytics-Driven Product & Strategy Leader** | CPG · eCommerce · Consumer Tech
 
