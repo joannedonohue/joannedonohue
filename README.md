@@ -47,6 +47,7 @@ I'm a product and strategy professional with 10+ years helping consumer brands t
 
 ### Strategy & Tools
 
+- [**private-equity-deal-screener**](https://github.com/joannedonohue/private-equity-deal-screener) — Python CLI tool that scores early-stage companies from a Pitchbook export against a weighted investment thesis and generates a one-page deal brief
 - [**midjourney-competitive-analysis**](https://github.com/joannedonohue/midjourney-competitive-analysis) — Competitive landscape analysis of Midjourney in the generative AI image market
 - [**banking-interest-calculator**](https://github.com/joannedonohue/banking-interest-calculator) — Modular Python OOP application for savings and CD account interest calculations
 
